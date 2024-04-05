@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\simwi\OneDrive - Linköpings universitet\Dokument\Skola\TNM046\Lab1\GLprimer\glew\src\glew.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\simwi\OneDrive - Linköpings universitet\Dokument\Skola\TNM046\Lab1\GLprimer\glew\include\GL\eglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\simwi\OneDrive - Linköpings universitet\Dokument\Skola\TNM046\Lab1\GLprimer\glew\include\GL\glew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\simwi\OneDrive - Linköpings universitet\Dokument\Skola\TNM046\Lab1\GLprimer\glew\include\GL\glxew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\simwi\OneDrive - Linköpings universitet\Dokument\Skola\TNM046\Lab1\GLprimer\glew\include\GL\wglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\simwi\OneDrive - Linköpings universitet\Dokument\Skola\TNM046\Lab1\GLprimer\glew\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{340CF7EC-13B0-36A8-BB93-1E7F74240F87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8F984434-353A-3A10-9E17-A95EEFB881DC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
